@@ -6,7 +6,7 @@ If you would like to get involved, join the [slack](https://enciv.slack.com) wor
 Here are some of the things we are looking for, technical and non-technical.
 
 ## Marketing Director
-We're building it, but that dosen't mean the people will come.  How do we bring them here.  And, after people come, how do we quickly excite them with the value of what this will do and get them to sign up and get started. We're looking for someone who can take charge and help with this.
+We're building it, but that dosen't mean the people will come.  How do we bring them here.  And, after people come, how do we quickly excite them with the value of what this will do and get them to sign up and get started. We're looking for someone who can take charge and help with this. What should the new enciv.org website look like? What should the tag line be? How should we engage with social media and what channels? These are just some of the areas where we need someone with marketing instincts to take the lead. 
 
 ## React and Javascript Front End
 The unpoll and undebate projects are build with React and the pages are animated, and undebates uses video. This means it's more than just layout, there are some advanced javascript things to do.  If you know how, or if you are interested in working animation or video, here is a great opportunity.
