@@ -16,3 +16,6 @@ Explainer Videos make a big difference in getting people's attention.  We need h
 
 ## Node User Account Development
 Our platform is built on Node, and we are creating a server 'component' that projects can use and extend, in order to get user account management.  We are looking for help doing things like forgot-password, and two factor authentication, and more.  And we are interestsed in using [Passport](http://www.passportjs.org/)
+
+## Project Manager
+Help us run our weekly meeting, and keep track of the github issues that we work on. We're open to using github projects, or some other free tool like Trello.  
