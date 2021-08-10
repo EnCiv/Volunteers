@@ -5,11 +5,15 @@ If you would like to get involved, join the [slack](https://docs.google.com/form
 
 Here are some of the things we are looking for, technical and non-technical.
 
+## Product Management
+In each project within EnCiv there are many product related tasks that need work to. 
+[see the currently open Product Management Tasks](https://github.com/issues?q=org%3AEnCiv+is%3Aopen+is%3Aissue+label%3A%22product+management%22)
+
 ## Marketing Director
 We're building it, but that dosen't mean the people will come.  How do we bring them here?  And, after people come, how do we quickly excite them with the value of what this will do and get them to sign up and get started? We're looking for someone who can take charge and help with this. What should the new enciv.org website look like? What should the tag line be? How should we engage with social media and what channels? These are just some of the areas where we need someone with marketing instincts to take the lead. 
 
 ## React and Javascript Front End
-The unpoll and undebate projects are built with React and the pages are animated, and undebates uses video. This means it's more than just layout, there are some advanced javascript things to do.  If you know how, or if you are interested in working animation or video, here is a great opportunity.
+The unpoll and undebate projects are built with React and the pages are animated, and undebates uses video. This means it's more than just layout, there are some advanced javascript things to do.  If you know how, or if you are interested in working animation or video, here is a great opportunity. [Click here to see the currently open issues for React Developers](https://github.com/issues?q=org%3AEnCiv+is%3Aopen+is%3Aissue+label%3A%22react%22)
 
 ## Explainer Video Creator 
 Explainer Videos make a big difference in getting people's attention.  We need help with developing the scripts, and doing the animation.  This is the explainer video for candidates, about Candidate Conversations - (undebates). https://www.youtube.com/watch?v=YlhrzVUAIpo
