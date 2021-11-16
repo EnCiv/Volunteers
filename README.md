@@ -1,7 +1,7 @@
 # Volunteers Welcome!
 [EnCiv](http://enciv.org) Is a 501(c)(3) nonprofit dedicated to making democracy work better online. There are several reasons to volunteer here, perhaps it's to further the mission, or perhaps it's to get real-world experience, or learn a new talent, or perhaps you have lots of experience and want to give back.
 
-If you would like to get involved, join the [slack](https://docs.google.com/forms/d/e/1FAIpQLSee58BUiy12dtloG9pLITsELcNldIwXcEtCotV9r95BZJSIVA/viewform?usp=sf_link) workspace.  We have regular meetings online on Wedensdays at 6:30pm Pacific Time.  See the Slack channel for announcments and links.  But you don't have to be able to make the regular meeting to contribute. Join the slack and introduce yourself.
+If you would like to get involved, join the [slack](https://docs.google.com/forms/d/e/1FAIpQLSee58BUiy12dtloG9pLITsELcNldIwXcEtCotV9r95BZJSIVA/viewform?usp=sf_link) workspace.  We have regular meetings online on Tuesdays at 7:30pm Pacific Time as part of [Open San Diego](opensandiego.org) a Code for America Brigade.  See the Slack channel for announcments and links.  But you don't have to be able to attend the meeting to contribute. Join the slack and introduce yourself.
 
 Here are some of the things we are looking for, technical and non-technical.
 
